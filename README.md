@@ -121,6 +121,7 @@ KX Insights provides tools for deploying kdb+ systems in the cloud.
 * [finos/kdb](https://github.com/finos/kdb) – Common standards, tools, and libraries to facilitate collaborative development, ease artifact reuse, and improve usability and administration of kdb+ software in enterprise deployments
 * [kxcontrib/market-fragmentation](https://github.com/kxcontrib/market-fragmentation) – Analyse market fragmentation
 * [dmorgankx/optionpricing](https://github.com/dmorgankx/optionpricing) – Option pricing
+* [rianoc/qCoinAPI](https://github.com/rianoc/qCoinAPI) - [CoinAPI](https://www.coinapi.io/) interface
 
 
 ## Machine learning
